@@ -1,0 +1,28 @@
+{
+  
+    "projectId": "1oo6xt",
+  
+    "chromeWebSecurity": true,
+  
+    "baseUrl": "https://qa-test.ticto.io",
+      
+    "env": {
+  
+      "baseUrl": "https://qa-test.ticto.io",
+  
+      "name": "Matheus Santos",
+      "email": "matheus@ticto.com.br",
+      "emailnok": "matheus@com",
+      "passwordnok":"123456",
+      "password":"12345678",
+  
+      "email-cadastro": "matheusantos@ticto.com.br",
+      
+      "CadastroOK": "teste e e ",
+      "CadastroNOK": "Dd",
+      "CadastroNULL": "$$$$",
+  
+      "viewportHeight": 720,
+      "viewportWidth":  1280
+    }
+  }
